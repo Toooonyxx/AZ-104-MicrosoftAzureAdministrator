@@ -57,7 +57,7 @@ In this task, you will deploy an Azure virtual machine that you will use later i
     >**Note**: Each command below should be typed separately
 
     ```powershell
-    $location = '[Azure_region]'
+    $location = 'Azure_region'
     ```
   
     ```powershell
